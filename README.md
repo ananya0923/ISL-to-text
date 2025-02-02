@@ -62,4 +62,4 @@ The project is built on hybri model of 3D-CNN and LSTM. 3D CNN focuses on extrac
    Provide the path to your best-trained model (`model_dir`).
 
 **Demo Screenshot**
-![image alt](WhatsApp Image 2025-02-02 at 14.49.07_3c671629.jpg)
+![image alt](https://github.com/ananya0923/ISL-to-text/blob/main/WhatsApp%20Image%202025-02-02%20at%2014.49.07_3c671629.jpg?raw=true)
