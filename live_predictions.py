@@ -4,7 +4,7 @@ from logger_handler import Logger
 import numpy as np
 import os
 import pyautogui
-import cv2
+import cv2 
 
 # Command Line argument parser.
 parser = ArgumentParser(description='Gesture model prediction code')
