@@ -60,3 +60,6 @@ The project is built on hybri model of 3D-CNN and LSTM. 3D CNN focuses on extrac
    python gestures_live_predictions.py -m model_dir
    ```
    Provide the path to your best-trained model (`model_dir`).
+
+**Demo Screenshot**
+![image alt](WhatsApp Image 2025-02-02 at 14.49.07_3c671629.jpg)
