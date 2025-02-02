@@ -2,7 +2,7 @@ import os
 import tensorflow as tf
 import time
 import datetime
-from logger_handler import Logger
+from logger_handler import Logger 
 from argparse import ArgumentParser
 from dataGenerator import DataGenerator
 
